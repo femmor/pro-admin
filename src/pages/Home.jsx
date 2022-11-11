@@ -1,4 +1,4 @@
-import { Navbar, Sidebar } from '../components';
+import { Navbar, Sidebar, Widget } from '../components';
 import '../styles/Home.scss';
 
 const Home = () => {
@@ -7,6 +7,12 @@ const Home = () => {
       <Sidebar />
       <div className="homeContainer">
         <Navbar />
+        <div className="widgets">
+          <Widget type="users" />
+          <Widget type="orders" />
+          <Widget type="earnings" />
+          <Widget type="balance" />
+        </div>
       </div>
     </div>
   );

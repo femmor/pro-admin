@@ -17,6 +17,11 @@ import FullscreenExitOutlinedIcon from '@mui/icons-material/FullscreenExitOutlin
 import NotificationsNoneOutlinedIcon from '@mui/icons-material/NotificationsNoneOutlined';
 import ChatBubbleOutlineOutlinedIcon from '@mui/icons-material/ChatBubbleOutlineOutlined';
 import ListOutlinedIcon from '@mui/icons-material/ListOutlined';
+import KeyboardArrowUpOutlinedIcon from '@mui/icons-material/KeyboardArrowUpOutlined';
+import PersonOutlineOutlinedIcon from '@mui/icons-material/PersonOutlineOutlined';
+import AccountBalanceWalletOutlinedIcon from '@mui/icons-material/AccountBalanceWalletOutlined';
+import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
+import MonetizationOnOutlinedIcon from '@mui/icons-material/MonetizationOnOutlined';
 
 export {
   DashboardCustomizeIcon,
@@ -38,4 +43,9 @@ export {
   NotificationsNoneOutlinedIcon,
   ChatBubbleOutlineOutlinedIcon,
   ListOutlinedIcon,
+  KeyboardArrowUpOutlinedIcon,
+  PersonOutlineOutlinedIcon,
+  AccountBalanceWalletOutlinedIcon,
+  ShoppingCartOutlinedIcon,
+  MonetizationOnOutlinedIcon,
 };
